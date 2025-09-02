@@ -6,7 +6,7 @@ Currently focused on full-stack development using **React**, **Svelte**, **Node.
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 Skills
 
 **Frontend**  
 `HTML` `CSS` `JavaScript` `TypeScript` `React` `Svelte` `Next.js`
@@ -16,6 +16,9 @@ Currently focused on full-stack development using **React**, **Svelte**, **Node.
 
 **Testing & Tools**  
 `Jest` `Git` `GitHub` `VS Code` `Webpack` `Vite`
+
+**Languages**  
+`Mandarin (native)` `English (TOEIC 875)`
 
 ---
 
@@ -52,9 +55,13 @@ Highlights:
 
 ---
 
-### 🎵 [Album Inventory Application](https://album-inventory-application.onrender.com/)
-A simple inventory management tool for organizing music albums. *(README pending)*  
-**Tech Stack:** *(To be updated once README is available)*  
+### 🎵 [Album Inventory Application](https://album-inventory-application.onrender.com/)  
+A full-stack web app for managing a music album collection.  
+Highlights:  
+- View, add, and manage album records  
+- Detailed album view with title, artist, and release year  
+- PostgreSQL integration for persistent storage  
+**Tech Stack:** Node.js, Express.js, EJS, HTML, CSS, PostgreSQL  
 🔗 [View on GitHub](https://github.com/SAAAM485/Album-Inventory-Application)
 
 ---

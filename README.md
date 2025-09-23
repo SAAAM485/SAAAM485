@@ -24,16 +24,6 @@ Currently focused on full-stack development using **React**, **Svelte**, **Node.
 
 ## 📁 Featured Projects
 
-### 🏡 [DIN Interior Design Portfolio](https://din-interior-design.netlify.app)  
-A responsive portfolio site for an interior design studio, built with SvelteKit and Tailwind CSS.  
-Highlights:  
-- Light/dark mode toggle for comfortable viewing  
-- Backend-less contact form via Netlify Forms, auto-synced to Google Sheets  
-- Dynamic project pages and smooth scroll animations  
-**Tech Stack:** SvelteKit, TypeScript, Tailwind CSS, Netlify Form, Google Sheets
-🔗 [View on GitHub](https://github.com/your_username/Interior-Design-Web)  
-*Site under construction—awaiting client project data.*
-
 ### 🎨 [Portfolio Website](https://saaam485.github.io/portfolio/)  
 A responsive portfolio showcasing my transition from QA to web development.  
 Highlights:  
@@ -42,6 +32,16 @@ Highlights:
 - Clean layout and responsive design  
 **Tech Stack:** HTML, CSS, JavaScript  
 🔗 [View on GitHub](https://github.com/SAAAM485/portfolio)
+
+### 🏡 [DIN Interior Design Portfolio](https://din-interior-design.netlify.app)  
+A responsive portfolio site for an interior design studio, built with SvelteKit and Tailwind CSS.  
+Highlights:  
+- Light/dark mode toggle for comfortable viewing  
+- Backend-less contact form via Netlify Forms, auto-synced to Google Sheets  
+- Dynamic project pages and smooth scroll animations  
+**Tech Stack:** SvelteKit, TypeScript, Tailwind CSS, Netlify Form, Google Sheets
+🔗 [View on GitHub](https://github.com/SAAAM485/Interior-Design-Web)
+*Site under construction—awaiting client project data.*
 
 ### 🧘 [Zen Flow](https://zen-flow0.vercel.app/) 
 A modern social media platform focused on distraction-free, chronological content flow.  

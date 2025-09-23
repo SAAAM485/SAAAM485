@@ -9,7 +9,7 @@ Currently focused on full-stack development using **React**, **Svelte**, **Node.
 ## 🧠 Skills
 
 **Frontend**  
-`HTML` `CSS` `JavaScript` `TypeScript` `React` `Svelte` `Next.js`
+`HTML` `CSS` `Tailwind CSS` `JavaScript` `TypeScript` `React` `Svelte` `Next.js`
 
 **Backend**  
 `Node.js` `Express` `Next.js API Routes` `PostgreSQL` `Prisma`
@@ -23,6 +23,16 @@ Currently focused on full-stack development using **React**, **Svelte**, **Node.
 ---
 
 ## 📁 Featured Projects
+
+### 🏡 [DIN Interior Design Portfolio](https://din-interior-design.netlify.app)  
+A responsive portfolio site for an interior design studio, built with SvelteKit and Tailwind CSS.  
+Highlights:  
+- Light/dark mode toggle for comfortable viewing  
+- Backend-less contact form via Netlify Forms, auto-synced to Google Sheets  
+- Dynamic project pages and smooth scroll animations  
+**Tech Stack:** SvelteKit, TypeScript, Tailwind CSS, Netlify Form, Google Sheets
+🔗 [View on GitHub](https://github.com/your_username/Interior-Design-Web)  
+*Site under construction—awaiting client project data.*
 
 ### 🎨 [Portfolio Website](https://saaam485.github.io/portfolio/)  
 A responsive portfolio showcasing my transition from QA to web development.  

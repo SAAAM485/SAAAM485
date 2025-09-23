@@ -39,7 +39,7 @@ Highlights:
 - Light/dark mode toggle for comfortable viewing  
 - Backend-less contact form via Netlify Forms, auto-synced to Google Sheets  
 - Dynamic project pages and smooth scroll animations  
-**Tech Stack:** SvelteKit, TypeScript, Tailwind CSS, Netlify Form, Google Sheets
+**Tech Stack:** SvelteKit, TypeScript, Tailwind CSS, Netlify Form, Google Sheets  
 🔗 [View on GitHub](https://github.com/SAAAM485/Interior-Design-Web)
 *Site under construction — awaiting client project data.*
 

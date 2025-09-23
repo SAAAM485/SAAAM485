@@ -41,7 +41,7 @@ Highlights:
 - Dynamic project pages and smooth scroll animations  
 **Tech Stack:** SvelteKit, TypeScript, Tailwind CSS, Netlify Form, Google Sheets
 🔗 [View on GitHub](https://github.com/SAAAM485/Interior-Design-Web)
-*Site under construction—awaiting client project data.*
+*Site under construction — awaiting client project data.*
 
 ### 🧘 [Zen Flow](https://zen-flow0.vercel.app/) 
 A modern social media platform focused on distraction-free, chronological content flow.  

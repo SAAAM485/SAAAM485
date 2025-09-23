@@ -33,6 +33,8 @@ Highlights:
 **Tech Stack:** HTML, CSS, JavaScript  
 🔗 [View on GitHub](https://github.com/SAAAM485/portfolio)
 
+---
+
 ### 🏡 [DIN Interior Design Portfolio](https://din-interior-design.netlify.app)  
 A responsive portfolio site for an interior design studio, built with SvelteKit and Tailwind CSS.  
 Highlights:  
@@ -42,6 +44,8 @@ Highlights:
 **Tech Stack:** SvelteKit, TypeScript, Tailwind CSS, Netlify Form, Google Sheets  
 🔗 [View on GitHub](https://github.com/SAAAM485/Interior-Design-Web)
 *Site under construction — awaiting client project data.*
+
+---
 
 ### 🧘 [Zen Flow](https://zen-flow0.vercel.app/) 
 A modern social media platform focused on distraction-free, chronological content flow.  
